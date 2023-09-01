@@ -497,7 +497,7 @@ input[type="radio"] {
   /* ---------------feature1--------------------- */
 
   .feature1 {
-    height: 80vh;
+    height: 75vh;
     width: 100vw;
     display: flex;
     flex-direction: column;
@@ -545,7 +545,7 @@ input[type="radio"] {
 
   .feature2 {
     width: 100vw;
-    height: 80vh;
+    height: 75vh;
     display: flex;
     flex-direction: column-reverse;
     align-items: center;
@@ -574,7 +574,7 @@ input[type="radio"] {
   /* -------------------feature3------------------------ */
 
   .feature3 {
-    height: 80vh;
+    height: 75vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -619,7 +619,7 @@ input[type="radio"] {
   /* ------------------feature4---------------------- */
 
   .feature4 {
-    height: 80vh;
+    height: 75vh;
     display: flex;
     flex-direction: column-reverse;
     align-items: center;
