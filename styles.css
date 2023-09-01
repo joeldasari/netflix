@@ -432,7 +432,7 @@ input[type="radio"] {
 @media only screen and (max-width: 600px) {
   .header {
     overflow: hidden;
-    height: 80vh;
+    height: 75vh;
     max-width: max-content;
     padding: 5px 5px;
     background-position: fixed;
